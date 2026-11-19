@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "akamai-edgedns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "plugin.akamai-edgedns.name": "Akamai - EdgeDNS",
+  "plugin.akamai-edgedns.description": "通过 Akamai - EdgeDNS 完成 ACME DNS-01 验证。",
+  "plugin.akamai-edgedns.access.host.label": "Akamai API Host",
+  "plugin.akamai-edgedns.access.host.tooltip": "这是什么？请参阅 <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.host.placeholder": "请输入 Akamai API Host",
+  "plugin.akamai-edgedns.access.clientToken.label": "Akamai ClientToken",
+  "plugin.akamai-edgedns.access.clientToken.tooltip": "这是什么？请参阅 <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.clientToken.placeholder": "请输入 Akamai ClientToken",
+  "plugin.akamai-edgedns.access.clientSecret.label": "Akamai ClientSecret",
+  "plugin.akamai-edgedns.access.clientSecret.tooltip": "这是什么？请参阅 <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.clientSecret.placeholder": "请输入 Akamai ClientSecret",
+  "plugin.akamai-edgedns.access.accessToken.label": "Akamai AccessToken",
+  "plugin.akamai-edgedns.access.accessToken.tooltip": "这是什么？请参阅 <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.accessToken.placeholder": "请输入 Akamai AccessToken"
+}

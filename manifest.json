@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "akamai",
+  "binary": "akamai-edgedns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Akamai - EdgeDNS.",
+  "display_name_key": "plugin.akamai-edgedns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "akamai-edgedns",
+  "provider_aliases": [
+    "akamai"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

@@ -1,0 +1,16 @@
+{
+  "plugin.akamai-edgedns.name": "Akamai - EdgeDNS",
+  "plugin.akamai-edgedns.description": "ACME DNS-01 via Akamai - EdgeDNS.",
+  "plugin.akamai-edgedns.access.host.label": "Akamai API host",
+  "plugin.akamai-edgedns.access.host.tooltip": "For more information, see <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.host.placeholder": "Please enter Akamai API host",
+  "plugin.akamai-edgedns.access.clientToken.label": "Akamai client token",
+  "plugin.akamai-edgedns.access.clientToken.tooltip": "For more information, see <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.clientToken.placeholder": "Please enter Akamai client token",
+  "plugin.akamai-edgedns.access.clientSecret.label": "Akamai client secret",
+  "plugin.akamai-edgedns.access.clientSecret.tooltip": "For more information, see <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.clientSecret.placeholder": "Please enter Akamai client secret",
+  "plugin.akamai-edgedns.access.accessToken.label": "Akamai access token",
+  "plugin.akamai-edgedns.access.accessToken.tooltip": "For more information, see <a href=\"https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials\" target=\"_blank\">https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials</a>",
+  "plugin.akamai-edgedns.access.accessToken.placeholder": "Please enter Akamai access token"
+}

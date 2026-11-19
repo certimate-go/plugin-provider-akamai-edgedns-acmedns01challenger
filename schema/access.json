@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "akamai",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "host",
+        "valueType": "text",
+        "labelKey": "plugin.akamai-edgedns.access.host.label",
+        "tooltipKey": "plugin.akamai-edgedns.access.host.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.akamai-edgedns.access.host.placeholder",
+        "required": true
+      },
+      {
+        "name": "clientToken",
+        "valueType": "secret",
+        "labelKey": "plugin.akamai-edgedns.access.clientToken.label",
+        "tooltipKey": "plugin.akamai-edgedns.access.clientToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.akamai-edgedns.access.clientToken.placeholder",
+        "secret": true,
+        "required": true
+      },
+      {
+        "name": "clientSecret",
+        "valueType": "secret",
+        "labelKey": "plugin.akamai-edgedns.access.clientSecret.label",
+        "tooltipKey": "plugin.akamai-edgedns.access.clientSecret.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.akamai-edgedns.access.clientSecret.placeholder",
+        "secret": true,
+        "required": true
+      },
+      {
+        "name": "accessToken",
+        "valueType": "secret",
+        "labelKey": "plugin.akamai-edgedns.access.accessToken.label",
+        "tooltipKey": "plugin.akamai-edgedns.access.accessToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.akamai-edgedns.access.accessToken.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
